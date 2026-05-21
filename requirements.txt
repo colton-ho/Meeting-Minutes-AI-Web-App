@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx[http2]
+python-multipart
+pydantic
+SQLAlchemy[asyncio]
+aiosqlite
+alembic
